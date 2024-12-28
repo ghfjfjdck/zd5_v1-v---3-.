@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color> <!-- Основной цвет приложения -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Темный основной цвет -->
+    <color name="colorAccent">#03DAC5</color> <!-- Акцентный цвет -->
+    <color name="colorBackground">#FFFFFF</color> <!-- Цвет фона -->
+    <color name="colorText">#000000</color> <!-- Цвет текста -->
+    <color name="colorDivider">#BDBDBD</color> <!-- Цвет разделителей -->
+    <color name="colorError">#B00020</color> <!-- Цвет для ошибок -->
+</resources>
